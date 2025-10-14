@@ -4,6 +4,9 @@ const music: string[] = [
    "Lose Yourself",
    "Bohemian Rhapsody",
    "Blinding Lights",
+   "Marry You",
+   "Love Story",
+   "Sunflower",
 ];
 
 export function printMusic(): void{
