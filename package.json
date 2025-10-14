@@ -2,9 +2,10 @@
   "dependencies": {
     "vitest": "^3.2.4"
   },
-
   "scripts": {
     "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
   }
-
 }
